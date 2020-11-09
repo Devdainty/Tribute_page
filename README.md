@@ -1,2 +1,2 @@
 # Tribute_page
-for practice
+for practice of Html tags and CSS
